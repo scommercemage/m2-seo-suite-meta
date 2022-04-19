@@ -9,6 +9,7 @@
         "scommercemage/richsnippet": "2.0.*",
         "scommercemage/catalogurl": "2.0.*",
         "scommercemage/hreflang": "2.0.*",
+        "scommerce/seositemap": "2.0.*",
         "scommercemage/crosslinking": "2.0.*"
     },
     "version": "2.0.0",
