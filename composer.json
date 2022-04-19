@@ -2,13 +2,14 @@
     "name": "scommerce/speed-optimizer-suite-meta",
     "description": "Speed Optimizer Suite for Magento 2",
     "require": {
-        "php": "~7.0.13|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+        "php": ">=7.2.0",
         "scommerce/core": "2.0.*",
         "scommerce/seobase": "2.0.*",
         "scommercemage/canonical": "2.0.*",
         "scommercemage/richsnippet": "2.0.*",
         "scommercemage/catalogurl": "2.0.*",
         "scommercemage/hreflang": "2.0.*",
+        "scommerce/seositemap": "2.0.*",
         "scommercemage/crosslinking": "2.0.*"
     },
     "version": "2.0.0",
