@@ -5,12 +5,12 @@
         "php": ">=7.2.0",
         "scommerce/core": "2.0.*",
         "scommerce/seobase": "2.0.*",
-        "scommercemage/canonical": "2.0.*",
-        "scommercemage/richsnippet": "2.0.*",
-        "scommercemage/catalogurl": "2.0.*",
-        "scommercemage/hreflang": "2.0.*",
+        "scommerce/canonical": "2.0.*",
+        "scommerce/richsnippet": "2.0.*",
+        "scommerce/catalogurl": "2.0.*",
+        "scommerce/hreflang": "2.0.*",
         "scommerce/seositemap": "2.0.*",
-        "scommercemage/crosslinking": "2.0.*"
+        "scommerce/crosslinking": "2.0.*"
     },
     "version": "2.0.0",
     "type": "metapackage",
