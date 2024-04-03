@@ -12,7 +12,7 @@
         "scommerce/seositemap": "2.0.*",
         "scommerce/crosslinking": "2.0.*"
     },
-    "version": "2.0.7",
+    "version": "2.0.6",
     "type": "metapackage",
     "license": "Commercial",
     "authors": [
